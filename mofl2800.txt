@@ -1,0 +1,255 @@
+2D coordinates: [823.0923, 1509.3506]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.05119324    34.41340637 -1163.58984375]
+Mean Squared Error: 2.1578956708593373
+
+2D coordinates: [575.9868, 1221.0161]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.04338074    36.28450012 -1164.28710938]
+Mean Squared Error: 0.11546315404605896
+
+2D coordinates: [478.88412, 1212.8447]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   47.28361511    36.91438293 -1163.73730469]
+Mean Squared Error: 0.9148896922949158
+
+2D coordinates: [382.16266, 1210.6078]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.69084167    37.24739075 -1163.95410156]
+Mean Squared Error: 0.4616384620749159
+
+2D coordinates: [276.25403, 1206.7236]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.5912323     37.81672668 -1164.61035156]
+Mean Squared Error: 0.4500754863305095
+
+2D coordinates: [911.1415, 1255.8236]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   47.02580261    37.18196106 -1164.73046875]
+Mean Squared Error: 0.47056419057480525
+
+2D coordinates: [979.72784, 1267.9458]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.93693542    35.90559387 -1163.73730469]
+Mean Squared Error: 0.5116799240592323
+
+2D coordinates: [1039.0409, 1278.5742]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.70549011    35.78840637 -1165.14355469]
+Mean Squared Error: 0.5513776208244963
+
+2D coordinates: [1090.6617, 1292.3878]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   44.99162292    36.77961731 -1165.15136719]
+Mean Squared Error: 0.37346967461538344
+
+2D coordinates: [832.29205, 1421.6942]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.89494324    36.26594543 -1164.53515625]
+Mean Squared Error: 0.3785924901846253
+
+2D coordinates: [854.80365, 1068.3966]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.96037292    36.46809387 -1163.50878906]
+Mean Squared Error: 0.47689775280984276
+
+2D coordinates: [855.27924, 1229.682]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.00724792    36.97883606 -1165.49121094]
+Mean Squared Error: 0.245160494276206
+
+2D coordinates: [755.58844, 1214.524]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   47.14006042    37.09797668 -1164.95996094]
+Mean Squared Error: 0.5590343068324728
+
+2D coordinates: [547.12555, 1198.9614]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.52677917    37.74446106 -1165.31738281]
+Mean Squared Error: 0.5484832068565689
+
+2D coordinates: [436.77655, 1191.3109]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.28849792    37.048172   -1164.25195312]
+Mean Squared Error: 0.23942079298528066
+
+2D coordinates: [321.945, 1186.6864]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.2318573     37.67024231 -1163.53027344]
+Mean Squared Error: 0.9139877399090134
+
+2D coordinates: [208.31946, 1183.0651]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.08439636    36.83625793 -1165.0546875 ]
+Mean Squared Error: 0.059401153552850396
+
+2D coordinates: [941.9212, 1231.3691]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.58732605    36.74543762 -1164.27246094]
+Mean Squared Error: 0.19687001558971437
+
+2D coordinates: [1030.9462, 1243.3239]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.5443573     35.81867981 -1164.10058594]
+Mean Squared Error: 0.4277840495390895
+
+2D coordinates: [831.2248, 1422.5511]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.81877136    36.79914856 -1164.54199219]
+Mean Squared Error: 0.26832493546438246
+
+2D coordinates: [1109.0812, 1254.6531]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.21232605    36.22981262 -1164.86328125]
+Mean Squared Error: 0.262843814023654
+
+2D coordinates: [1181.6375, 1267.5613]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.51896667    36.25617981 -1164.86035156]
+Mean Squared Error: 0.13752967519394588
+
+2D coordinates: [1246.3894, 1280.2708]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.24845886    37.16242981 -1164.76953125]
+Mean Squared Error: 0.22898770772250523
+
+2D coordinates: [1303.7894, 1298.3246]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.37834167    36.59309387 -1163.80957031]
+Mean Squared Error: 0.3610550528052651
+
+2D coordinates: [852.0269, 1553.3596]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.93302917    36.01008606 -1163.75390625]
+Mean Squared Error: 0.44898076258929603
+
+2D coordinates: [848.25854, 1146.6715]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.68009949    37.02082825 -1163.09082031]
+Mean Squared Error: 0.8961608822428389
+
+2D coordinates: [850.0143, 1298.6263]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.16838074    36.46614075 -1164.9921875 ]
+Mean Squared Error: 0.24903871767552724
+
+2D coordinates: [664.69324, 1277.6611]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.38713074    37.39680481 -1164.62890625]
+Mean Squared Error: 0.25904634995094966
+
+2D coordinates: [1005.0895, 1321.5488]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.37931824    36.20637512 -1164.15820312]
+Mean Squared Error: 0.2404287025613788
+
+2D coordinates: [1072.5436, 1336.4323]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   44.56584167    35.39094543 -1164.54785156]
+Mean Squared Error: 1.211861122676055
+
+2D coordinates: [828.4126, 1161.8965]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.68205261    36.05012512 -1164.82324219]
+Mean Squared Error: 0.17339086187712383
+
+2D coordinates: [575.5263, 1273.0978]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.33439636    36.86946106 -1164.66503906]
+Mean Squared Error: 0.06129918895991674
+
+2D coordinates: [826.1801, 1152.3961]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.76213074    35.907547   -1164.4453125 ]
+Mean Squared Error: 0.2429132377389275
+
+2D coordinates: [825.91943, 1148.679]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.59220886    36.52375793 -1164.09179688]
+Mean Squared Error: 0.2700364182674093
+
+2D coordinates: [837.132, 1324.4459]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.60295105    36.63996887 -1164.71386719]
+Mean Squared Error: 0.14991253269545268
+
+2D coordinates: [833.7162, 1246.6091]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.37736511    36.74641418 -1164.70605469]
+Mean Squared Error: 0.06537935041221014
+
+2D coordinates: [750.3266, 1238.6005]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   44.5521698     35.73078918 -1165.14453125]
+Mean Squared Error: 1.0302695026281679
+
+2D coordinates: [668.70575, 1228.3007]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.67424011    37.1966095  -1164.27539062]
+Mean Squared Error: 0.1566550647500359
+
+2D coordinates: [245.07742, 302.71976]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.33537292    35.94758606 -1164.89257812]
+Mean Squared Error: 0.26151346567106276
+
+2D coordinates: [134.89964, 303.06757]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.96818542    36.63606262 -1164.38964844]
+Mean Squared Error: 0.030237780539512944
+
+2D coordinates: [13.778014, 303.7257]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.92131042    35.47590637 -1163.44824219]
+Mean Squared Error: 1.3361252710504534
+
+2D coordinates: [288.05832, 383.21445]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   47.84318542    38.54719543 -1165.65039062]
+Mean Squared Error: 2.6509977470122976
+
+2D coordinates: [186.98288, 386.63513]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.91349792    36.96907043 -1164.33398438]
+Mean Squared Error: 0.06256134214830429
+
+2D coordinates: [82.30876, 387.26346]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.09318542    37.00422668 -1164.15917969]
+Mean Squared Error: 0.35661876105101936
+
+2D coordinates: [-24.408838, 386.57016]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.36759949    37.18782043 -1163.87304688]
+Mean Squared Error: 0.3552136411550843
+
+2D coordinates: [199.84445, 624.0956]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.5677948     36.70735168 -1164.83789062]
+Mean Squared Error: 0.05369351211023362
+
+2D coordinates: [205.05666, 445.12143]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.12541199    36.61946106 -1164.5078125 ]
+Mean Squared Error: 0.02444971007935237
+
+2D coordinates: [203.0463, 372.37738]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.53361511    36.24250793 -1165.03808594]
+Mean Squared Error: 0.23415287239186
+
+2D coordinates: [316.16486, 369.90234]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   45.04045105    37.63313293 -1164.86816406]
+Mean Squared Error: 0.5639741709116303
+
+2D coordinates: [201.15521, 375.16217]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.6224823     36.0247345  -1163.76269531]
+Mean Squared Error: 0.593537391750336
+
+2D coordinates: [190.55942, 272.10324]
+True 3D coordinates: [   45.9368    36.7095 -1164.68  ]
+Predicted 3D coordinates: [   46.31291199    37.60676575 -1163.60839844]
+Mean Squared Error: 0.6983312184893293
+
